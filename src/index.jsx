@@ -7,14 +7,14 @@ class MainWebPage extends React.Component {
     render() {
         return (
             <div>
-                <Header/>
-                <Inner/>
+                <Header />
+                <Inner />
             </div>
         );
     }
 }
 
 ReactDOM.render(
-    <MainWebPage/>,
+    <MainWebPage />,
     document.getElementById('root')
-  );
+);
