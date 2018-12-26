@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/ultrtech-website/static/js/runtime~main.a25e72cb.js"
   },
   {
-    "revision": "714277584b3534eb6cca",
-    "url": "/ultrtech-website/static/js/main.71427758.chunk.js"
+    "revision": "10a1986cbfaea2e9de2a",
+    "url": "/ultrtech-website/static/js/main.10a1986c.chunk.js"
   },
   {
     "revision": "fa92c112869d3657d47b",
     "url": "/ultrtech-website/static/js/1.fa92c112.chunk.js"
   },
   {
-    "revision": "714277584b3534eb6cca",
+    "revision": "10a1986cbfaea2e9de2a",
     "url": "/ultrtech-website/static/css/main.244ec96e.chunk.css"
   },
   {
-    "revision": "d17f4787ae136915afa5daee90f97569",
+    "revision": "da2b112d1d01275ac42a0f2f2f303962",
     "url": "/ultrtech-website/index.html"
   }
 ];

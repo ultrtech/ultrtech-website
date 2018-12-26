@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ultrtech-website/precache-manifest.0b038f181e375daae4d63d1796c8560b.js"
+  "/ultrtech-website/precache-manifest.9b1f3a87f4ea559f6dead0ec72223666.js"
 );
 
 workbox.clientsClaim();
