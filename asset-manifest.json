@@ -1,14 +1,13 @@
 {
-  "main.css": "/ultrtech-website/static/css/main.244ec96e.chunk.css",
-  "main.js": "/ultrtech-website/static/js/main.10a1986c.chunk.js",
-  "main.js.map": "/ultrtech-website/static/js/main.10a1986c.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/ultrtech-website/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/ultrtech-website/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/ultrtech-website/static/js/runtime~main.a25e72cb.js",
-  "runtime~main.js.map": "/ultrtech-website/static/js/runtime~main.a25e72cb.js.map",
-  "static/media/logo.svg": "/ultrtech-website/static/media/logo.5d5d9eef.svg",
-  "static/css/main.244ec96e.chunk.css.map": "/ultrtech-website/static/css/main.244ec96e.chunk.css.map",
-  "index.html": "/ultrtech-website/index.html",
-  "precache-manifest.9b1f3a87f4ea559f6dead0ec72223666.js": "/ultrtech-website/precache-manifest.9b1f3a87f4ea559f6dead0ec72223666.js",
-  "service-worker.js": "/ultrtech-website/service-worker.js"
+  "main.css": "/static/css/main.b8e30ec7.chunk.css",
+  "main.js": "/static/js/main.4d8ad8c0.chunk.js",
+  "main.js.map": "/static/js/main.4d8ad8c0.chunk.js.map",
+  "static/js/1.a44f0c00.chunk.js": "/static/js/1.a44f0c00.chunk.js",
+  "static/js/1.a44f0c00.chunk.js.map": "/static/js/1.a44f0c00.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.b8e30ec7.chunk.css.map": "/static/css/main.b8e30ec7.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.dedabe8ce8cf090e04215e2c35f6778e.js": "/precache-manifest.dedabe8ce8cf090e04215e2c35f6778e.js",
+  "service-worker.js": "/service-worker.js"
 }
